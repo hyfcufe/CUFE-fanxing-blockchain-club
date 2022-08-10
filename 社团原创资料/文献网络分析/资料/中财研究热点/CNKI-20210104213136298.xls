@@ -1,0 +1,56 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta name="Excel Workbook Frameset"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2021-01-04T22:09:40</o:Created>
+     <o:LastAuthor>sy</o:LastAuthor>
+     <o:LastSaved>2021-01-04T22:18:24</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.10228</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <link rel="File-List" href="CNKI-20210104213136298.files/filelist.xml"/>
+  <link id="shLink" href="CNKI-20210104213136298.files/sheet001.htm"/>
+  <link id="shLink" href="CNKI-20210104213136298.files/sheet002.htm"/>
+  <script src="CNKI-20210104213136298.files\js.js"></script>
+  <script type="text/javascript">window.g_iIEVer=fnGetIEVer();fnBuildFrameset(1);</script>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>CNKI-20210104213136298</x:Name>
+       <x:WorksheetSource HRef="CNKI-20210104213136298.files/sheet001.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>Sheet1</x:Name>
+       <x:WorksheetSource HRef="CNKI-20210104213136298.files/sheet002.htm"/>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:Stylesheet HRef="CNKI-20210104213136298.files/stylesheet.css"/>
+     <x:ActiveSheet>1</x:ActiveSheet>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7130</x:WindowHeight>
+     <x:WindowWidth>14630</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <frameset rows="*,36" border="0" width="0" frameborder="no">
+  <frame src="CNKI-20210104213136298.files/sheet002.htm" name="frSheet" noresize/>
+  <frame src="CNKI-20210104213136298.files/tabstrip.htm" name="frTabs" marginwidth="0" marginheight="0"/>
+  <noframes>
+   <body>
+    <p>此页面使用了框架，而您的浏览器不支持框架</p>
+   </body>
+  </noframes>
+ </frameset>
+</html>
